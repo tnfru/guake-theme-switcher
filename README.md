@@ -2,7 +2,9 @@
 
 A simple yet powerful command-line tool to save, manage, and switch between custom color palettes for the Guake Terminal.
 
-![Guake Terminal](https://example.com/screenshot.png) *(Add your screenshot here)*
+![image](https://github.com/user-attachments/assets/69f64d12-338d-45ab-b491-344b08df4874)
+![image](https://github.com/user-attachments/assets/9fdaa5fb-954e-41a8-9610-ac96aa12b561)
+
 
 ## Problem
 
