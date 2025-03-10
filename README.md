@@ -1,4 +1,4 @@
-# Guake Color Palette Manager
+# Guake Theme Switcher
 
 A simple yet powerful command-line tool to save, manage, and switch between custom color palettes for the Guake Terminal.
 
