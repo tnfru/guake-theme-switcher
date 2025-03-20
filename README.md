@@ -2,7 +2,11 @@
 
 > A utility for switching between day/night themes in Guake Terminal with LSDeluxe (LSD) integration
 
-![Terminal Theme Preview](https://github.com/user-attachments/assets/69f64d12-338d-45ab-b491-344b08df4874)
+![image](https://github.com/user-attachments/assets/b884a456-a03d-4500-854b-ba0dd1cb5d18)
+![image](https://github.com/user-attachments/assets/938fa224-f64f-45c1-9c15-8cf3482e1d7e)
+
+
+
 
 ## Features
 
@@ -81,4 +85,4 @@ theme-switch save anothertheme
 
 ## License
 
-MIT © [Your Name]
+MIT © Lars Müller
