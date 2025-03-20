@@ -20,7 +20,7 @@
 
 ```bash
 # Install
-git clone https://github.com/your-username/guake-theme-switcher.git
+git clone https://github.com/tnfru/guake-theme-switcher.git
 cd guake-theme-switcher
 chmod +x theme-switch.sh
 sudo cp theme-switch.sh /usr/local/bin/theme-switch
