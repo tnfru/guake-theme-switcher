@@ -77,8 +77,6 @@ function setup() {
     
     create_shell_helpers
     
-    echo "Copy this script for aliases to work"
-    echo "sudo cp theme-switcher.sh /usr/local/bin/theme-switch"
     echo "Setup complete! Add the following to your .bashrc or .zshrc:"
     echo "source $SCHEMES_DIR/theme-aliases.sh"
 }
